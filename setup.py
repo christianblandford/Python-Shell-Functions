@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="console_functions",
-    version="0.0.2",
+    version="0.0.8",
     author="Christian Blandford",
     author_email="christianblandford@me.com",
     description="Some functions for easily printing pretty text to a terminal shell in python.",

@@ -1,1 +1,1 @@
-from .functions import console
+from .functions import *
